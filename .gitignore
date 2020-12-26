@@ -1,0 +1,12 @@
+.idea/
+.env
+.docker/
+static/
+/venv/
+/*/migrations/
+/*/*/migrations/
+/__pycache__/
+/*/__pycache__/
+/*/*/__pycache__/
+/wish_swap/settings_local.py
+mywill_scanner/settings/
